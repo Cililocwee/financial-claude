@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# User financial data (created at runtime)
+finances/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temp files
+*.tmp
+~$*
